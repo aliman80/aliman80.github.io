@@ -19,7 +19,7 @@ linkedin: https://www.linkedin.com/
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: https://github.com/aliman80/aliman80.github.io/blob/main/assets/img/DSC_0233.jpeg
+avatar: ./assets/img/DSC_0233.jpeg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
