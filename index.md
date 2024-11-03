@@ -14,8 +14,8 @@ I received my Masters degree in Wireless Communications from the Lunds Teckniska
 
 ## News
 
-- **[Feb. 2020]** Our paper COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes is accepted in WACV 25
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
+- **[Nov. 2024]** Our paper COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes is accepted in WACV 25
+- **[June. 2023]** Our paper " CLIPDecoder: ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representations accepted at ICCV Workshop.!
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
