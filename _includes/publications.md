@@ -16,7 +16,7 @@
     <div class="author">Muhammad Ali, Salman Khan</div>
     <div class="periodical"><em>Under review at NAACL 2025</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2410.01407" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://openreview.net/pdf/a17eaeff6f27eb0ee7e9f5787f8fb7bf7b3fee07.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="HTTPS://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c"></i></strong>
     </div>
