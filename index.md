@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a final year Ph.D. student at the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI).
 
 ## Research Interests
 
