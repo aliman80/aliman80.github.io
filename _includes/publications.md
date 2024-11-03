@@ -13,7 +13,7 @@
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openreview.net/pdf/a17eaeff6f27eb0ee7e9f5787f8fb7bf7b3fee07.pdf">WASTEBENCH</a></div>
-    <div class="author">Muhammad Ali, </strong>, Salman Khan</div>
+    <div class="author">Muhammad Ali, Salman Khan</div>
     <div class="periodical"><em>Under review at COLING 2025</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2410.01407" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
