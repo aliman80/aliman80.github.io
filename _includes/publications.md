@@ -54,7 +54,7 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3dmsr_main_diagram.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">MICCAI</abbr>
+    <abbr class="badge"> IEEE ICIP</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
@@ -64,7 +64,7 @@
     <div class="periodical"><em>IEEE ICIP 2024</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2407.09379" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/hananshafi/medcontext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
     </div>
   </div>
