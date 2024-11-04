@@ -78,16 +78,16 @@
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/iclr_main_figure_arxiv.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICLR</abbr>
+    <abbr class="badge">ICCV</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2310.10640">LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts </a></div>
-    <div class="author"><strong>Hanan Gani</strong>, Shariq Farooq Bhat, Muzammal Naseer, Salman Khan, Peter Wonka</div>
-    <div class="periodical"><em>12th International Conference on Learning Representations (ICLR) 2024</em></div>
+    <div class="author"><strong>Muhammad Ali, Salman Khan </div>
+    <div class="periodical"><em> Internation Conference on Computer Vision (ICCV-VLAR-Workshop) 2023</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2310.10640" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/hananshafi/llmblueprint/tree/main" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://arxiv.org/pdf/2406.14830" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/aliman80/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://hananshafi.github.io/llm-blueprint/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://iclr.cc/media/PosterPDFs/ICLR%202024/17895.png?t=1712475019.5436091" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="https://iclr.cc/media/iclr-2024/Slides/17895_UdDSF8r.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides & Video</a>
