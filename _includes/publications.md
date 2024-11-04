@@ -58,11 +58,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2402.17725">MedContext: Learning Contextual Cues for Efficient Volumetric Medical Segmentation</a></div>
-    <div class="author"><strong>Hanan Gani</strong>, Muzammal Naseer, Fahad Khan and Salman Khan</div>
-    <div class="periodical"><em>27th International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2024</em></div>
+    <div class="title"><a href="https://arxiv.org/abs/2402.17725">FANet: Feature Amplification Network for Semantic Segmentation in Cluttered Background
+</a></div>
+    <div class="author"><strong>Muhammad Ali</strong>, Mamoona Javaid,  Mubashir Noman, Mustansar Fiaz and Salman Khan</div>
+    <div class="periodical"><em>IEEE ICIP 2024</em></div>
     <div class="links">
-      <a href="https://arxiv.org/pdf/2402.17725" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/abs/2407.09379" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/hananshafi/medcontext" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
     </div>
