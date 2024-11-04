@@ -53,7 +53,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/3dmsr_main_diagram.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/FANET.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge"> IEEE ICIP</abbr>
   </div>
 
