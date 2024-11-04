@@ -30,7 +30,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/method_ttl.jpg" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/COSNET.PNG" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WACV</abbr>
   </div>
 
@@ -39,8 +39,8 @@
     <div class="author">Muhammad Ali, Noor Ansari, Mubashir Noman, Mustansar Fiaz and Salman Khan</div>
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2407.15913" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/Razaimam45/TTL-Test-Time-Low-Rank-Adaptation" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://https://arxiv.org/html/2410.24139v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
     </div>
   </div>
