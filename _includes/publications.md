@@ -37,7 +37,7 @@
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/abs/2407.15913">COSNet: A Novel Object Segmentation Network using Enhanced Boundaries in Cluttered Scenes</a></div>
     <div class="author"><strong>Muhammad Ali, Noor Ansari, Mubashir Noman, Mustansar Fiaz and Salman Khan</div>
-    <div class="periodical"><em>WACV 2025</em></div>
+    <div class="periodical"<em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2406.10326" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/rohit901/VANE-Bench" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
