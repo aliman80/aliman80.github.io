@@ -90,7 +90,7 @@
       <a href="https://arxiv.org/pdf/2406.14830" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/aliman80/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
   
-      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
   </div>
 </div>
