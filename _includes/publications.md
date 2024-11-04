@@ -82,7 +82,8 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2310.10640">LLM Blueprint: Enabling Text-to-Image Generation with Complex and Detailed Prompts </a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2310.10640"> CLIP-Decoder : ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representation
+ </a></div>
     <div class="author"><strong>Muhammad Ali, Salman Khan </div>
     <div class="periodical"><em> Internation Conference on Computer Vision (ICCV-VLAR-Workshop) 2023</em></div>
     <div class="links">
