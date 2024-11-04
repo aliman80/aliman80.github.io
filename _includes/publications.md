@@ -77,7 +77,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/iclr_main_figure_arxiv.png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/CLIP.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">ICCV</abbr>
   </div>
 
@@ -88,9 +88,7 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2406.14830" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/aliman80/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://hananshafi.github.io/llm-blueprint/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://iclr.cc/media/PosterPDFs/ICLR%202024/17895.png?t=1712475019.5436091" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
-      <a href="https://iclr.cc/media/iclr-2024/Slides/17895_UdDSF8r.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides & Video</a>
+  
       <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
     </div>
   </div>
