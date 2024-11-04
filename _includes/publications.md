@@ -30,7 +30,7 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/COSNET.PNG" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/COSNET.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">WACV</abbr>
   </div>
 
