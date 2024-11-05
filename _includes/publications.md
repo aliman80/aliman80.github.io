@@ -106,7 +106,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/10034594">ce...
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10034594">
 Underwater Object Detection Enhancement via Channel Stabilization</a></div>
     <div class="author"> *, <strong>Muhammad Ali *</strong>, Salman Khan</div>
     <div class="periodical"><em>Digital Image Computing: Techniques and Applications (DICTA), 2022</em></div>
