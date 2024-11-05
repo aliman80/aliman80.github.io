@@ -106,13 +106,13 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2311.01459">Align your Prompts: Test-time Prompting with Distribution Alignment for Zero-shot Generalization</a></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/10034594">ce...
+Underwater Object Detection Enhancement via Channel Stabilization</a></div>
     <div class="author">Jameel Hassan *, <strong>Hanan Gani *</strong>, Noor Hussein, Uzair Khattak, Muzammal Naseer, Salman Khan, Fahad Khan</div>
     <div class="periodical"><em>37th Advances in Neural Information Processing Systems (NeurIPS), 2023</em></div>
     <div class="links">
-      <a href="https://arxiv.org/abs/2311.01459" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/jameelhassan/PromptAlign" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://jameelhassan.github.io/promptalign/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://ieeexplore.ieee.org/document/10034594" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72406.png?t=1701518650.4223518" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="https://neurips.cc/virtual/2023/poster/72406" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides & Video</a>
       <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
