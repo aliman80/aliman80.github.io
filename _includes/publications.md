@@ -113,9 +113,8 @@ Underwater Object Detection Enhancement via Channel Stabilization</a></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10034594" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <a href="https://neurips.cc/media/PosterPDFs/NeurIPS%202023/72406.png?t=1701518650.4223518" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Poster</a>
       <a href="https://neurips.cc/virtual/2023/poster/72406" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Slides & Video</a>
-      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+      <strong><i style="color:#e74d3c">Short Oral Presentation</i></strong>
     </div>
   </div>
 </div>
