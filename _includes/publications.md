@@ -126,7 +126,7 @@ Underwater Object Detection Enhancement via Channel Stabilization</a></div>
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/final_main_figure (1).png" class="teaser img-fluid z-depth-1">
+    <img src="assets/img/VISAPP.png" class="teaser img-fluid z-depth-1">
     <abbr class="badge">VISAPP</abbr>
   </div>
 
@@ -135,7 +135,7 @@ Underwater Object Detection Enhancement via Channel Stabilization</a></div>
     <div class="author"><strong>Muhammad Ali</strong>, Omar Al Suwaidi, Dr Salman Khan</div>
     <div class="periodical"><em>17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications.</em></div>
     <div class="links">
-      <a href="https://bmvc2022.mpi-inf.mpg.de/0731.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.scitepress.org/Documents/2023/118944" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
