@@ -131,7 +131,7 @@ Underwater Object Detection Enhancement via Channel Stabilization</a></div>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2210.07240">https://www.researchgate.net/publication/369015728_FlexPooling_with_Simple_Auxiliary_Classifiers_in_Deep_Networks</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2210.07240">https://www.scitepress.org/Documents/2023/118944/</a></div>
     <div class="author"><strong>Hanan Gani</strong>, Muhammad Ali, Omar Al Suwaidi, Dr Salman Khan</div>
     <div class="periodical"><em>17th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications.</em></div>
     <div class="links">
