@@ -174,17 +174,17 @@ Underwater Object Detection Enhancement via Channel Stabilization</a></div>
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/disguised_2.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICSIP</abbr>
+    <abbr class="badge">ICPRAM</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8600440">Disguised Facial Recognition Using Neural Networks</a></div>
-    <div class="author">S Kumaar, <strong>H. Gani</strong>, RM Vishwanath, SN Omkar, A Majeedi, A Dogra</div>
-    <div class="periodical"><em>IEEE 3rd International Conference on Signal and Image Processing (ICSIP), 2018</em></div>
+    <div class="title"><a href="https://ieeexplore.ieee.org/abstract/document/8600440">Enhanced Segmentation of Deformed Waste Objects in Cluttered Environments</a></div>
+    <div class="author"> <strong>Muhammad Ali</strong>, Omar Al Suwaidi, Salman Khan </div>
+    <div class="periodical"><em>International Conference on Pattern Recognition Applications and Methods(ICPRAM), 2022</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/abstract/document/8600440" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://www.scitepress.org/Papers/2024/124249/124249.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/hananshafi/disguised-facial-recog" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-      <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
+      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
   </div>
 </div>
