@@ -11,7 +11,7 @@
 <h4 style="margin:0 10px 0;">Teaching Experience</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="www.mbzuai.ac.ae"><autocolor>Graudte Teaching Assistant 
+  <li><a href="www.mbzuai.ac.ae"><autocolor>Graduate Teaching Assistant 
  Machine Learning(MBZUAI)</autocolor></a></li>
-  <li><a href="Teaching Assistant Advanced Communications "><autocolor>https://www.lunduniversity.lu.se/</autocolor></a></li>
+  <li><a href="Teaching Assistant Advanced Communications "><autocolor>/www.lunduniversity.lu.se/</autocolor></a></li>
 </ul>
