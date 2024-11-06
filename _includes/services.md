@@ -13,5 +13,5 @@
 <ul style="margin:0 0 20px;">
   <li><a href="www.mbzuai.ac.ae"><autocolor>Graduate Teaching Assistant 
  Machine Learning(MBZUAI)</autocolor></a></li>
-  <li><a href="www.lunduniversity.lu.se "><autocolor>Teaching Assistant Advanced Telecommunications</autocolor></a></li>
+  <li><a href="www.lunduniversity.lu.se "><autocolor>Teaching Assistant Advanced Telecommunications(LUND University)</autocolor></a></li>
 </ul>
