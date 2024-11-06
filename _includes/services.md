@@ -11,6 +11,7 @@
 <h4 style="margin:0 10px 0;">Teaching Experience</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><a href="https://www.mbzuai.ac.ae/"><autocolor>Graudte Teaching Assistant 
+ Machine Learning(MBZUAI)</autocolor></a></li>
+  <li><a href="Teaching Assistant Advanced Communications "><autocolor>https://www.lunduniversity.lu.se/</autocolor></a></li>
 </ul>
