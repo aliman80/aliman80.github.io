@@ -14,6 +14,6 @@
   <li><a href="www.mbzuai.ac.ae"><autocolor>Graduate Teaching Assistant 
  Machine Learning(MBZUAI,UAE)</autocolor></a></li>
   <li><a href="www.lunduniversity.lu.se "><autocolor>Teaching Assistant Advanced Telecommunications(LUND University,Sweden)</autocolor></a></li>
- <li><a autocolor>Worked as Program facilitator: AI leadership Accelerator Program</autocolor</li>
+ <li>Worked as Program facilitator: AI leadership Accelerator Program</li>
   
 </ul>
