@@ -54,7 +54,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2410.24139">COSNet: A Novel Object Segmentation Network using Enhanced Boundaries in Cluttered Scenes</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2402.17725">COSNet: A Novel Object Segmentation Network using Enhanced Boundaries in Cluttered Scenes</a></div>
     <div class="author">Muhammad Ali, Noor Ansari, Mubashir Noman, Mustansar Fiaz and Salman Khan</div>
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</em></div>
     <div class="links">
