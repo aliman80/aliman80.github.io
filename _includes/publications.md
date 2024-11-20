@@ -33,7 +33,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://openreview.net/pdf/a17eaeff6f27eb0ee7e9f5787f8fb7bf7b3fee07.pdf">RobustWasteChallenge: AComprehensiveBenchmarkforEvaluatingVLLMsin Cluttered Degraded Environments</a></div>
+    <div class="title"><a href="https://openreview.net/pdf?id=jHp63qX64q">RobustWasteChallenge: AComprehensiveBenchmarkforEvaluatingVLLMsin Cluttered Degraded Environments</a></div>
     <div class="author">Muhammad Ali, Salman Khan</div>
     <div class="periodical"><em>Under review at NAACL 2025</em></div>
     <div class="links">
