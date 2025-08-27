@@ -7,8 +7,8 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/CAT.png " class="teaser img-fluid z-depth-1">
-    <abbr class="badge">EMNLP 2025</abbr>
+    <img src="assets/img/FusionSort.png " class="teaser img-fluid z-depth-1">
+    <abbr class="badge">IBCAST 2025</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
