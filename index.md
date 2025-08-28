@@ -14,6 +14,7 @@ I received my Masters degree in Wireless Communications from the Lunds Teckniska
 
 ## News
 
+- **[July. 2025]** Our paper FusionSort: Enhanced Cluttered Waste Segmentation with Advanced Decoding and Comprehensive Modality Optimization is accepted in  IEEE/IBCAST 2025.
 - **[Nov. 2024]** Our paper COSNet: A Novel Semantic Segmentation Network using Enhanced Boundaries in Cluttered Scenes is accepted in  IEEE/CVF WACV 2025.
 - **[Oct. 2024]** Our paper " FANet: Feature Amplification Network for Semantic Segmentation in Cluttered Background is accepted in IEEE ICIP 2024.
 - **[June. 2023]** Our paper " CLIPDecoder: ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representations accepted in IEEE/ICCV Workshop.!
