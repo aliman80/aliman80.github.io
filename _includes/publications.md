@@ -12,7 +12,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2508.19798.pdf"">FusionSort: Enhanced Cluttered Waste Segmentation with Advanced Decoding and Comprehensive Modality Optimization</a></div>
+    <div class="title"><a href="https://arxiv.org/abs/2508.19798.pd">FusionSort: Enhanced Cluttered Waste Segmentation with Advanced Decoding and Comprehensive Modality Optimization</a></div>
     <div class="author">Muhammad Ali, OmaralSuwaidi</div>
     <div class="periodical"><em>IBCAST 2025</em></div>
     <div class="links">
