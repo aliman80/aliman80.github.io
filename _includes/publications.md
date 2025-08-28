@@ -16,7 +16,7 @@
     <div class="author">Muhammad Ali, OmaralSuwaidi</div>
     <div class="periodical"><em>IBCAST 2025</em></div>
     <div class="links">
-      <a href="https://openreview.net/pdf/a17eaeff6f27eb0ee7e9f5787f8fb7bf7b3fee07.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://arxiv.org/pdf/2508.19798.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="HTTPS://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c"></i></strong>
     </div>
