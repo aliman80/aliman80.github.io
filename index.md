@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am currently a PhD student at Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI). At MBZUAI, I am affliated with the Intelligent Visual Analytics Lab (IVAL) where I am primarily advised by Dr. Salman Khan. My secondary advisor is Dr. Fahad Khan.
+I completed PhD from Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI). At MBZUAI, I was affliated with the Intelligent Visual Analytics Lab (IVAL) where I was primarily advised by Dr. Salman Khan. My secondary advisor was Dr. Fahad Khan.
 
 I received my Masters degree in Wireless Communications from the Lunds Teckniska Hogskola , LTH, Sweden. After graduation, I worked as a System Engineer at ACES, Pakistan) before again transitioning into academia in 2020 and joining MBZUAI as a PhD student under Dr. Salman Khan
 ## Research Interests
