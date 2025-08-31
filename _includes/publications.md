@@ -78,7 +78,7 @@
     <div class="periodical"><em>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV) 2025</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2410.24139" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/techmn/cosnet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
     </div>
   </div>
