@@ -102,7 +102,7 @@
     <div class="periodical"><em>IEEE ICIP 2024</em></div>
     <div class="links">
       <a href="https://arxiv.org/abs/2407.09379" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/techmn/fanet" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c">Poster Presentation</i></strong>
     </div>
   </div>
