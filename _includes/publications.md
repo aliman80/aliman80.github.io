@@ -202,7 +202,7 @@ Underwater Object Detection Enhancement via Channel Stabilization</a></div>
     <div class="periodical"><em>International Conference on Pattern Recognition Applications and Methods(ICPRAM), 2022</em></div>
     <div class="links">
       <a href="https://www.scitepress.org/Papers/2024/124249/124249.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/hananshafi/disguised-facial-recog" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
   </div>
