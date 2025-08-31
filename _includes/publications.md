@@ -123,7 +123,7 @@
     <div class="title"><a href="https://arxiv.org/abs/2310.10640"> CLIP-Decoder : ZeroShot Multilabel Classification using Multimodal CLIP Aligned Representation
  </a></div>
 <div class="author"><strong>Muhammad Ali, Salman Khan</strong></div>
-    <div class="periodical"><em> Internation Conference on Computer Vision (ICCV-VLAR-Workshop) 2023</em></div>
+    <div class="periodical"><em> International Conference on Computer Vision (ICCV-VLAR-Workshop) 2023</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2406.14830" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://github.com/aliman80/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -145,18 +145,18 @@
 
   <div class="col-sm-9" style="position: relative;width: 100%;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/10034594">
-Underwater Object Detection Enhancement via Channel Stabilization</a></div>
-    <div class="author">  <strong>Muhammad Ali </strong>, Salman Khan</div>
+      Underwater Object Detection Enhancement via Channel Stabilization</a></div>
+    <div class="author"><strong>Muhammad Ali</strong>, Salman Khan</div>
     <div class="periodical"><em>Digital Image Computing: Techniques and Applications (DICTA), 2022</em></div>
     <div class="links">
-      <a href="https://ieeexplore.ieee.org/document/10034594" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-
+      <a href="https://ieeexplore.ieee.org/document/10034594" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stabilization" class="btn btn-sm z-depth-0" target="_blank" style="font-size:12px;">Code</a>
       <strong><i style="color:#e74d3c">Short Oral Presentation</i></strong>
     </div>
   </div>
 </div>
 </li>
+
 
 <br>
 
