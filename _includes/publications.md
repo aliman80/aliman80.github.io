@@ -150,7 +150,7 @@ Underwater Object Detection Enhancement via Channel Stabilization</a></div>
     <div class="periodical"><em>Digital Image Computing: Techniques and Applications (DICTA), 2022</em></div>
     <div class="links">
       <a href="https://ieeexplore.ieee.org/document/10034594" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://github.com/aliman80" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+      <a href="https://github.com/aliman80/Underwater-Object-Detection-via-Channel-Stablization" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 
       <strong><i style="color:#e74d3c">Short Oral Presentation</i></strong>
     </div>
